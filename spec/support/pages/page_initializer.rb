@@ -5,6 +5,7 @@ class PageInitializer
     @pages = {
       homepage: HomePage.new,
       loginpage: LoginPage.new,
+      nextdestinationpage: YourNextDestinationPage.new,
     }
   end
 
